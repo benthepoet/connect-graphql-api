@@ -1,0 +1,24 @@
+{
+  "name": "connect-graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benthepoet/connect-graphql-api.git"
+  },
+  "author": "Ben Hanna <benpaulhanna@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benthepoet/connect-graphql-api/issues"
+  },
+  "homepage": "https://github.com/benthepoet/connect-graphql-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.5",
+    "connect-route": "^0.1.5"
+  }
+}
